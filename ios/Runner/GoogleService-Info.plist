@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175633126550-edme4tgtjl3cc4f8ojfsgeec35bvnni2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175633126550-edme4tgtjl3cc4f8ojfsgeec35bvnni2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>175633126550-07lf51202kfocmj7jcla7on0noupd361.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlLwHrZZZmICxsZDtmFt42AIKqUA9csmk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175633126550</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.insurezy</string>
+	<key>PROJECT_ID</key>
+	<string>insurancezy-281b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>insurancezy-281b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175633126550:ios:f371cfa9f4e63672939eb7</string>
+	<key>DATABASE_URL</key>
+	<string>https://insurancezy-281b3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
